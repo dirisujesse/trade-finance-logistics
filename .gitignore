@@ -22,3 +22,5 @@ dist/*
 # Ignore lint Output
 **/.nyc_output/
 
+config.bat
+node_modules
