@@ -24,3 +24,5 @@ dist/*
 
 # Ignore NPM installation status file
 **/package-lock.json
+config.bat
+node_modules
